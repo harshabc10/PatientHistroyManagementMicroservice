@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2vQCt58s2fNyV9bg6ktC+ooj9Vw8Rma6mGIOHMbS1PY=",
+  "Source": "PatientHistoryManagementMicrosevices",
+  "BasePath": "_content/PatientHistoryManagementMicrosevices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

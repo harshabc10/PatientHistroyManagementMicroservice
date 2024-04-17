@@ -1,0 +1,6 @@
+@PatientHistoryManagementMicrosevices_HostAddress = http://localhost:5292
+
+GET {{PatientHistoryManagementMicrosevices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
